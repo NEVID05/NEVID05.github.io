@@ -1,0 +1,18 @@
+body{
+   
+    background-color: skyblue;
+    text-align: center; 
+    
+}
+    
+p{  box-sizing: border-box; 
+    width: 50%;
+    border-style: ridge;
+    border-color: purple;
+    border-width: 10px;
+    float: right;
+}
+img{
+    float: left;
+    position:relative;
+}

@@ -1,0 +1,16 @@
+p{
+    box-sizing: border-box; 
+    width: 50%;
+    border-style: ridge;
+    border-color: dimgrey;
+    border-width: 10px;
+    margin: 5em;
+    float: left;
+    
+}
+img{ 
+    float: right;
+    width: 10%;
+    position:relative;
+    margin: 5em;
+}

@@ -1,0 +1,10 @@
+p{
+    
+    box-sizing: border-box; 
+    width: 60%;
+    border-style: ridge;
+    border-color: royalblue;
+    border-width: 5px;
+    margin: 5em;
+    float: right;
+}
