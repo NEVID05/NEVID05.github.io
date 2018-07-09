@@ -7,4 +7,13 @@ p{
     border-width: 5px;
     margin: 5em;
     float: right;
+    font-family: fantasy;
+}
+a:hover{
+    color: orangered;
+}
+body{
+    background-color: deepskyblue;
+    text-align:center; 
+
 }

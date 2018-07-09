@@ -7,4 +7,18 @@ p{
     border-width: 10px;
     margin: 5em;
     float: left;
+    font-family: fantasy;
+
     }
+iframe{
+    width: 80%;
+    height: 80%
+}
+a:hover{
+    color: orangered
+}
+body{
+    background-color: deepskyblue;
+    text-align:center; 
+
+}
