@@ -13,6 +13,6 @@ p{  box-sizing: border-box;
     float: right;
 }
 img{
-    float: left;
+    float: center;
     position:relative;
 }
